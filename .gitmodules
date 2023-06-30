@@ -1,0 +1,6 @@
+[submodule "yolov7_ros/src/yolov7_ros/yolov7"]
+	path = yolov7_ros/src/yolov7_ros/yolov7
+	url = https://github.com/WongKinYiu/yolov7
+[submodule "fastsam_ros/src/fastsam_ros/FastSAM"]
+	path = fastsam_ros/src/fastsam_ros/FastSAM
+	url = https://github.com/CASIA-IVA-Lab/FastSAM

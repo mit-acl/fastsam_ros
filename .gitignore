@@ -1,0 +1,4 @@
+__pycache__
+*.pt
+*.weights
+fastsam_ros/src/fastsam_ros/output
